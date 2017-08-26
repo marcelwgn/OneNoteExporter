@@ -1,0 +1,10 @@
+c:\users\marcel\documents\visual studio 2017\Projects\OneNoteExporter\OneNoteExporter\bin\x64\Release\OneNoteExporter.exe.config
+c:\users\marcel\documents\visual studio 2017\Projects\OneNoteExporter\OneNoteExporter\bin\x64\Release\OneNoteExporter.exe
+c:\users\marcel\documents\visual studio 2017\Projects\OneNoteExporter\OneNoteExporter\obj\x64\Release\Interop.Microsoft.Office.Interop.OneNote.dll
+c:\users\marcel\documents\visual studio 2017\Projects\OneNoteExporter\OneNoteExporter\obj\x64\Release\Interop.OneNoteEx.dll
+c:\users\marcel\documents\visual studio 2017\Projects\OneNoteExporter\OneNoteExporter\obj\x64\Release\OneNoteExporter.csproj.ResolveComReference.cache
+c:\users\marcel\documents\visual studio 2017\Projects\OneNoteExporter\OneNoteExporter\obj\x64\Release\OneNoteExporter.Properties.Resources.resources
+c:\users\marcel\documents\visual studio 2017\Projects\OneNoteExporter\OneNoteExporter\obj\x64\Release\OneNoteExporter.csproj.GenerateResource.Cache
+c:\users\marcel\documents\visual studio 2017\Projects\OneNoteExporter\OneNoteExporter\obj\x64\Release\OneNoteExporter.exe
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\OneNoteExporter\OneNoteExporter\obj\x64\Release\OneNoteExporter.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\OneNoteExporter\OneNoteExporter\obj\x64\Release\OneNoteExporter.Mainframe.resources
